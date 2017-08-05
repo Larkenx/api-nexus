@@ -1,6 +1,6 @@
-# stock-app
+# api-nexus
 
-> A Vue.js project
+This is based on a [Scotch.io tutorial](https://scotch.io/tutorials/build-a-cryptocurrency-comparison-site-with-vuejs), which covers building a website to compare cryptocurrencies. I'm working through the tutorial but focusing on building everything in Vuetify instead of Bootstrap, then I am going to go on to work on making some other API calls to other services and display the data in a pretty format.
 
 ## Build Setup
 
@@ -14,5 +14,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
