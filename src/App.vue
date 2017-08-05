@@ -1,6 +1,6 @@
 <template>
     <v-app light>
-        <v-toolbar class="cyan" dark>
+        <v-toolbar class="gunmetal" dark>
             <v-toolbar-title center class="display-3">
                 API Nexus
             </v-toolbar-title>
@@ -31,4 +31,15 @@
 
 <style lang="stylus">
     @import './stylus/main'
+    .picton_blue
+        background-color #2EC8ED
+        color white
+    .gunmetal
+        background-color #2B2D42
+        color white
+    .gray_blue
+        background-color #8D99AE
+        color white
+    #app
+        background-color #6457A6
 </style>

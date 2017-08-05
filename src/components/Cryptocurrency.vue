@@ -9,7 +9,6 @@
                 hide-actions
                 :headers="headers"
                 :items="items"
-                class="elevation-1"
                 >
                 <template slot="items" scope="props">
                     <td>{{ props.item.rank }}</td>
